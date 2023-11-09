@@ -1,5 +1,6 @@
-
+# autogenerates
 dist
+build
 
 # Compiled class file
 *.class
